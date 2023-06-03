@@ -10,35 +10,17 @@
 
 整体页面设计风格为简约设计,页面分三栏👩‍👧‍👦\两栏🧑‍🤝‍🧑\一栏⛹️,*部分页面设计参考了GitHub与LeetCode风格*
 
-==主页面== 
+==图集== 
 
-![image-20230603102743943](C:\Users\27107\AppData\Roaming\Typora\typora-user-images\image-20230603102743943.png)
+![image-20230603102743943](src\assets\images\001.png)
 
-==登录页面==
+![image-20230603102743944](src\assets\images\002.png)
 
-![image-20230603102348184](C:\Users\27107\AppData\Roaming\Typora\typora-user-images\image-20230603102348184.png)
+![image-20230603102743945](src\assets\images\003.png)
 
-==注册页面== 
+![image-20230603102743946](src\assets\images\004.png)
 
-![image-20230603102517857](C:\Users\27107\AppData\Roaming\Typora\typora-user-images\image-20230603102517857.png)
-
-==文章页面== 自带二级评论
-
-![image-20230603102831738](C:\Users\27107\AppData\Roaming\Typora\typora-user-images\image-20230603102831738.png)
-
-![image-20230603102951407](C:\Users\27107\AppData\Roaming\Typora\typora-user-images\image-20230603102951407.png)
-
-==搜索==
-
-![image-20230603103152034](C:\Users\27107\AppData\Roaming\Typora\typora-user-images\image-20230603103152034.png)
-
-==用户==
-
-![image-20230603103102837](C:\Users\27107\AppData\Roaming\Typora\typora-user-images\image-20230603103102837.png)
-
-==管理员== 
-
-![image-20230603103322965](C:\Users\27107\AppData\Roaming\Typora\typora-user-images\image-20230603103322965.png)
+![image-20230603102743947](src\assets\images\005.png)
 
 **文件结构**
 

@@ -9,11 +9,11 @@ export const useAccountStore = defineStore({
   id: 'account',
   state: () => ({
     account: {
-      code: 0,
+      code: 999,
       data: {},
     },
     defaultAccount: {
-      code: 0,
+      code: 999,
       data: {},
     },
   }),
